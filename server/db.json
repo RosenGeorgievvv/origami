@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "content": "Pesho was here!",
+            "author": "Pesho"
+        },
+        {
+            "id": 2,
+            "content": "I found Pesho!",
+            "author": "Gosho"
+        },
+        {
+            "id": 3,
+            "content": "This is for test purpose",
+            "author": "Stamat"
+        }
+    ]
+}
